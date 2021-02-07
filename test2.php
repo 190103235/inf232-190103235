@@ -16,3 +16,4 @@ echo "Is 153 Armstrong number? ".armstrong_number(153);
 echo "\nIs 21 Armstrong number? ".armstrong_number(21);
 echo "\nIs 4587 Armstrong number? ".armstrong_number(4587);"\n";
 ?>
+gg
